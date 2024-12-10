@@ -15,8 +15,8 @@ Some highlight features:
 
 ## Downloads
 
-[Github](https://github.com/Diabloxvx/Magisk/releases/latest) for my build based on latest commits to the Official Magisk.
-[Github](https://github.com/topjohnwu/Magisk/) is the only source for official Magisk information and downloads.
+- [Diabloxvx Build](https://github.com/Diabloxvx/Magisk/releases/latest) for my build based on latest commits to the Official Magisk.
+- [Github](https://github.com/topjohnwu/Magisk/) is the only source for official Magisk information and downloads.
 
 
 ## Useful Links
