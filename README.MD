@@ -1,7 +1,5 @@
 ![](docs/images/logo.png)
 
-[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
-
 #### This is not an officially supported Google product
 #### This Build is for personal use. If you want to use it, you can; it might be unstable as it is build on latest commits to the official
 
@@ -17,6 +15,7 @@ Some highlight features:
 
 ## Downloads
 
+[Github](https://github.com/Diabloxvx/Magisk/releases/latest) for my build based on latest commits to the Official Magisk.
 [Github](https://github.com/topjohnwu/Magisk/) is the only source for official Magisk information and downloads.
 
 
