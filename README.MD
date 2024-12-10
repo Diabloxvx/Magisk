@@ -1,7 +1,9 @@
+## This Build is for personal use. If you want to use it, you can; it might be unstable as it is built on latest commits to the official
+
+
 ![](docs/images/LOGO.png)
 
 #### This is not an officially supported Google product
-#### This Build is for personal use. If you want to use it, you can; it might be unstable as it is build on latest commits to the official
 
 ## Introduction
 
